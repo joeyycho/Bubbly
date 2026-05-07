@@ -1,4 +1,4 @@
-# 🫧 Bubbly (버블리)
+<img width="680" height="384" alt="image" src="https://github.com/user-attachments/assets/bea5a0c5-57f3-4cdc-b300-b4ee09c6da71" /># 🫧 Bubbly (버블리)
 > **Make your macOS workspace cozy and playful.**
 
 [![Downloads](https://img.shields.io/github/downloads/joeyycho/Bubbly/total?style=for-the-badge&color=FFB6C1)](https://github.com/joeyycho/Bubbly/releases)
@@ -21,8 +21,8 @@
 1.  [Releases](https://github.com/joeyycho/Bubbly/releases) 페이지에서 가장 최신 버전의 `Bubbly.zip`을 다운로드합니다.
 2.  압축을 풀고 `Bubbly.app` 파일을 **응용 프로그램(Applications)** 폴더로 옮겨주세요.
 3.  **처음 실행 시 주의사항 (Security Guide):**
-    *   앱을 **우클릭 (Control + 클릭)** 한 뒤 **'열기(Open)'**를 선택하세요.
-    *   보안 팝업창이 뜨면 다시 한번 **'열기(Open)'**를 눌러주세요.
+    *   앱을 **우클릭 (Control + 클릭)** 한 뒤 '**열기(Open)**'를 선택하세요.
+    *   보안 팝업창이 뜨면 다시 한번 '**열기(Open)**'를 눌러주세요.
     *   이 과정은 앱스토어 외부 배포 앱을 실행하기 위한 최초 1회 인증 절차입니다.
 
 ---
