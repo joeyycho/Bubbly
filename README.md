@@ -1,4 +1,4 @@
-<img width="680" height="384" alt="image" src="https://github.com/user-attachments/assets/bea5a0c5-57f3-4cdc-b300-b4ee09c6da71" /># 🫧 Bubbly (버블리)
+# 🫧 Bubbly (버블리)
 > **Make your macOS workspace cozy and playful.**
 
 [![Downloads](https://img.shields.io/github/downloads/joeyycho/Bubbly/total?style=for-the-badge&color=FFB6C1)](https://github.com/joeyycho/Bubbly/releases)
